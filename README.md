@@ -1,4 +1,2 @@
 # ISJA
-注塑-屈曲联合仿真分析脚本
-
-这是一个注塑-屈曲联合仿真分析的python脚本
+This is a python script for joint injection-structrual simulation analysis.
